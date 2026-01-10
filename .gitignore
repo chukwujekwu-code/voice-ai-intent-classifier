@@ -1,16 +1,46 @@
-# Python-generated files
+# Python
 __pycache__/
-*.py[oc]
+*.py[cod]
+*$py.class
+*.so
 build/
 dist/
 wheels/
-*.egg-info
+*.egg-info/
+*.egg
 
 # Virtual environments
-.venv
-.claude
-.claude
-CLAUDE.md
-uv
-.python-version
-submission.py
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
+
+# uv
+uv.lock
+
+# Large model files (optional - uncomment if models are too large for git)
+# models/*.joblib
+
+# Temporary files
+*.tmp
+*.log
