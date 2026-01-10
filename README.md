@@ -1,6 +1,6 @@
 # Voice AI Intent Classification
 
-Intent classification system for a Voice AI assistant that helps Rwandan citizens access government services. Built for the Irembo ML Engineer take-home assignment.
+Intent classification system for a Voice AI assistant that helps citizens access government services.
 
 ## Features
 
