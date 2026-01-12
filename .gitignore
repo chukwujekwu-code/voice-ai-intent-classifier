@@ -32,10 +32,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Claude Code
-.claude/
-CLAUDE.md
-
 create_submission_pdf.py
 irembo_ml_submission.pdf
 
